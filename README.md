@@ -1,5 +1,5 @@
 # baidu_search
-[baiduSearch for eLong]
+[baidu_search for eLong] ubuntu+ruby+mysql/sqlite3
 
 #baidu_search_mysql.rb
 $ruby baidu_search_mysql.rb eLong 100000
