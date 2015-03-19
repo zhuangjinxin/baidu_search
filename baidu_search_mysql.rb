@@ -1,6 +1,6 @@
 require 'socket'
 require 'nokogiri'
-require 'dbi'
+require 'mysql'
 
 $host = 'www.baidu.com'
 $port = 80
