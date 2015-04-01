@@ -11,7 +11,7 @@
 安装：ruby/gem/nokogiri/dbi/mysql/sqlite3<br>
 
 #<h5>运行程序</h5>
-$ruby baidu_search.rb eLong 100000<br>
+$ruby baidu_search_sqlite3.rb eLong 100000<br>
 程序运行到一定阶段，就运行不了了。因为百度让你这么频繁的爬网页，很不安全，你懂得！^_^<br>
 
 #<h5>程序说明</h5>
